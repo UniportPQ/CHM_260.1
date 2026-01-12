@@ -95,7 +95,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": "https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/CHM+260.1/N4a.png",
+      "content": "https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_260.1/N4a.png",
       "alt": "Z-2-pentene structure showing CH3-CH2-CH=CH-CH3 with ethyl and methyl groups on same side of double bond"
     },
     "Explanation": {
@@ -533,7 +533,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": "https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/CHM+260.1/N28a.jpg"
+      "content": "https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_260.1/N28a.jpg"
     },
     "Explanation": {
       "type": "string",
@@ -550,7 +550,7 @@
     },
     "Answer": {
       "type": "img",
-      "content": "https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/CHM+260.1/N29a.jpg"
+      "content": "https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_260.1/N29a.jpg"
     },
     "Explanation": {
       "type": "string",
@@ -590,11 +590,11 @@
     },
     "Answer": {
       "type": "img", 
-      "content": "https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/CHM+260.1/N31a.jpg"
+      "content": "https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_260.1/N31a.jpg"
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fischer Projection of R-2-butanol</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>From image:</strong><br>\n    Fischer projection is drawn showing R-2-butanol with clockwise rotation.\n  </div>\n\n  <div style='margin-bottom: 12px; text-align: center;'>\n    <strong style='color: var(--strongColor);'>Structure from image:</strong><br>\n    <img src='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/CHM+260.1/N31a.jpg' alt='Fischer Projection of R-2-butanol' style='max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; padding: 10px; background: white; margin: 10px 0;'>\n    <div style='font-size: 0.9em; color: #666; margin-top: 5px;'>Fischer projection of R-2-butanol showing R configuration</div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Fischer projection rules:</strong><br>\n    • Vertical lines = bonds going behind plane<br>\n    • Horizontal lines = bonds coming forward<br>\n    • Chiral center at intersection<br>\n    • For R configuration: OH on right, H on left (when lowest priority is vertical)<br>\n    • Priority order: OH (1) > CH₂CH₃ (2) > CH₃ (3) > H (4)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How to read:</strong><br>\n    • Top and bottom groups are behind the plane<br>\n    • Left and right groups are in front of the plane<br>\n    • Clockwise priority order gives R configuration\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Image showing Fischer projection of R-2-butanol\n  </div>\n</div>"
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fischer Projection of R-2-butanol</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>From image:</strong><br>\n    Fischer projection is drawn showing R-2-butanol with clockwise rotation.\n  </div>\n\n  <div style='margin-bottom: 12px; text-align: center;'>\n    <strong style='color: var(--strongColor);'>Structure from image:</strong><br>\n    <img src='https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_260.1/N31a.jpg' alt='Fischer Projection of R-2-butanol' style='max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; padding: 10px; background: white; margin: 10px 0;'>\n    <div style='font-size: 0.9em; color: #666; margin-top: 5px;'>Fischer projection of R-2-butanol showing R configuration</div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Fischer projection rules:</strong><br>\n    • Vertical lines = bonds going behind plane<br>\n    • Horizontal lines = bonds coming forward<br>\n    • Chiral center at intersection<br>\n    • For R configuration: OH on right, H on left (when lowest priority is vertical)<br>\n    • Priority order: OH (1) > CH₂CH₃ (2) > CH₃ (3) > H (4)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How to read:</strong><br>\n    • Top and bottom groups are behind the plane<br>\n    • Left and right groups are in front of the plane<br>\n    • Clockwise priority order gives R configuration\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Image showing Fischer projection of R-2-butanol\n  </div>\n</div>"
     }
   },
   {
@@ -607,11 +607,11 @@
     },
     "Answer": {
       "type": "img",
-      "content": "https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/CHM+260.1/N32a.jpg"
+      "content": "https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_260.1/N32a.jpg"
     },
     "Explanation": {
       "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Most Stable Conformer of 2,2-dimethyl cyclohexane</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>From image:</strong><br>\n    Chair conformation is drawn with methyl groups shown.\n  </div>\n\n  <div style='margin-bottom: 12px; text-align: center;'>\n    <strong style='color: var(--strongColor);'>Structure from image:</strong><br>\n    <img src='https://ppqmg.s3.eu-north-1.amazonaws.com/pastquestionsimg/CHM+260.1/N32a.jpg' alt='Chair conformation of 2,2-dimethyl cyclohexane' style='max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; padding: 10px; background: white; margin: 10px 0;'>\n    <div style='font-size: 0.9em; color: #666; margin-top: 5px;'>Chair conformation of 2,2-dimethyl cyclohexane</div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key point from image note:</strong><br>\n    \"The conformation will be more stable when the two bulky substituents are seen on the equatorial carbon, e.g., carbon 2 and 3 of the chair conformation.\"\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>For 2,2-dimethyl cyclohexane:</strong><br>\n    • Both methyl groups are on carbon 2 (geminal disubstitution)<br>\n    • In chair conformation, one methyl will be axial, one equatorial<br>\n    • Most stable has larger group equatorial when possible<br>\n    • For geminal disubstitution (both on same carbon), one must be axial, one equatorial\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Stability factors:</strong><br>\n    • Chair conformation is most stable for cyclohexane<br>\n    • 1,3-diaxial interactions are minimized<br>\n    • Bulky groups prefer equatorial positions to reduce steric strain<br>\n    • In 2,2-dimethyl, both methyls cannot be equatorial simultaneously\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Image showing chair conformation with methyl groups\n  </div>\n</div>"
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Most Stable Conformer of 2,2-dimethyl cyclohexane</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>From image:</strong><br>\n    Chair conformation is drawn with methyl groups shown.\n  </div>\n\n  <div style='margin-bottom: 12px; text-align: center;'>\n    <strong style='color: var(--strongColor);'>Structure from image:</strong><br>\n    <img src='https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_260.1/N32a.jpg' alt='Chair conformation of 2,2-dimethyl cyclohexane' style='max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; padding: 10px; background: white; margin: 10px 0;'>\n    <div style='font-size: 0.9em; color: #666; margin-top: 5px;'>Chair conformation of 2,2-dimethyl cyclohexane</div>\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key point from image note:</strong><br>\n    \"The conformation will be more stable when the two bulky substituents are seen on the equatorial carbon, e.g., carbon 2 and 3 of the chair conformation.\"\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>For 2,2-dimethyl cyclohexane:</strong><br>\n    • Both methyl groups are on carbon 2 (geminal disubstitution)<br>\n    • In chair conformation, one methyl will be axial, one equatorial<br>\n    • Most stable has larger group equatorial when possible<br>\n    • For geminal disubstitution (both on same carbon), one must be axial, one equatorial\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Stability factors:</strong><br>\n    • Chair conformation is most stable for cyclohexane<br>\n    • 1,3-diaxial interactions are minimized<br>\n    • Bulky groups prefer equatorial positions to reduce steric strain<br>\n    • In 2,2-dimethyl, both methyls cannot be equatorial simultaneously\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--cAns); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Image showing chair conformation with methyl groups\n  </div>\n</div>"
     }
   },
   {
